@@ -10,7 +10,7 @@
 - 使用无监督/半监督/迁移学习等利用其他数据集
 - 多Stage网络
 - 加入后处理部分
-参考：
+- 参考：
 https://www.yangwenlong.org/2021/07/16/%e6%a8%a1%e5%9e%8b%e7%b2%be%e5%ba%a6%e6%8f%90%e5%8d%87%e7%9a%84%e6%80%9d%e8%b7%af%ef%bc%88%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0%e4%b8%ad%ef%bc%89/
 
 # 解决梯度消失和梯度爆炸的方法
@@ -24,7 +24,7 @@ https://www.yangwenlong.org/2021/07/16/%e6%a8%a1%e5%9e%8b%e7%b2%be%e5%ba%a6%e6%8
 - 添加Dropout及BN层等
 - Early Stopping
 - weight decay
-参考：
+- 参考：
 https://www.yangwenlong.org/2021/07/16/%e5%87%8f%e5%b0%91%e8%bf%87%e6%8b%9f%e5%90%88%e7%9a%84%e6%96%b9%e6%b3%95%e6%b1%87%e6%80%bb/
 
 更多请参考我的个人技术笔记主页：
